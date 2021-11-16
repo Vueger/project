@@ -1,3 +1,3 @@
 function sayHi() {
-  alert("Hello, Git!");
+  alert("Hello, Git! I'm Vueger.");
 }
